@@ -2,7 +2,7 @@
 
 ### Abstract
 
-This project explores the variations in house prices across different locations in Nigeria, with a specific focus on the influence of inherent characteristics such as the number of bedrooms, bathrooms, and parking spaces. By leveraging data from data.world and employing R for data analysis and visualization, this study aims to identify patterns and insights that can inform stakeholders about the real estate market in Nigeria. Key findings include the identification of the most and least expensive locations to buy houses and the factors that significantly impact house prices.
+This project examines the differences in home pricing in several Nigerian regions, paying particular attention to the impact of innate features such the quantity of bedrooms, bathrooms, and parking spots. This project attempts to find trends and insights that can inform stakeholders about Nigeria's real estate industry by using data from data.world and R for data analysis and visualization. The places with the highest and lowest costs to purchase a home as well as the factors that have a major influence on home prices are among the important conclusions.
 
 ### Methodology
 
