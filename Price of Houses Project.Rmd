@@ -10,7 +10,8 @@ output:
 ---
 
 ## Background
-The prices of houses in Nigeria is known for its flunctuation overtime. This can be attributed to the loss in the value of the naira and some other factors. However, the aim of this analysis is to know how the prices of houses vary in different locations with respect to number of rooms and other inherent factors. This analysis will also help us establish how the prices of houses are affected by their inherent characteristics such as bedrooms and parking space.
+Nigerian property prices are notorious for fluctuating over time. This can be explained by several causes, including the naira's decline in value. However, this investigation aims to determine how property values alter depending on location, number of rooms, and other intrinsic elements. This study will also assist us in determining how a house’s inherent features, such as bedrooms and parking, affect its pricing.
+
 
 ## Preparation Of Data and Required Packages
 The dataset to be used was extracted from data.world website. We will be loading the tidyverse package which is required for this analysis and also load the data using the read.csv function.
